@@ -1,5 +1,5 @@
 Piparkakkupoika (iltasatu)
-Tämä versio omalla koneella
+Tämä versio omalla koneella ja GitHubissa
 
 Lyhennetty suomennos Kati Weiss
 
